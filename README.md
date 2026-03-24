@@ -5,9 +5,9 @@
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
 
-Name: __________
+Name: _Ashish Behal_________
 
-UBIT: __________
+UBIT: __akbehal2________
 
 ## Implementation
 
